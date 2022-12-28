@@ -1,0 +1,2 @@
+(self["webpackChunk_1kx_sourceCode"]=self["webpackChunk_1kx_sourceCode"]||[]).push([[373],{56373:function(e,a,n){"use strict";n.r(a);n(77883);var r=n(49747),u=n(67294),s=n(48521);a["default"]=(0,u.forwardRef)(((e,a)=>{var n=e.amount,u=e.onChange;return(0,s.jsx)(r.Z,{className:"inputTxt",value:n.read(),onChange:u,ref:a,min:0})}))}}]);
+//# sourceMappingURL=373.f94fe879.async.js.map
