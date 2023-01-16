@@ -1,1 +1,40 @@
-:root:not(.theme-dark){--tv-color-platform-background:#fff;--tv-color-pane-background:#fff;--tv-color-pane-background-secondary:#fff;--tv-color-toolbar-button-background-hover:#fff;--tv-color-toolbar-button-background-secondary-hover:red;--tv-color-toolbar-button-background-expanded:#434651;--tv-color-toolbar-button-text:#88184f;--tv-color-toolbar-button-text-hover:#4a148c;--tv-color-toolbar-button-text-active:red;--tv-color-toolbar-button-text-active-hover:red;--tv-color-item-active-text:#0606ff;--tv-color-toolbar-toggle-button-background-active:red;--tv-color-toolbar-toggle-button-background-active-hover:#f0f}.cusButton{width:100%;text-align:center;cursor:pointer}.cusButton.selected{color:#03cdc1}.theme-dark:root{--tv-color-platform-background:#1d2233;--tv-color-pane-background:#1d2233;--tv-color-pane-background-secondary:#1d2233;--tv-color-toolbar-button-background-hover:#1d2233;--tv-color-toolbar-button-background-secondary-hover:red;--tv-color-toolbar-button-background-expanded:#1d2233;--tv-color-toolbar-button-text:#88184f;--tv-color-toolbar-button-text-hover:#4a148c;--tv-color-toolbar-button-text-active:red;--tv-color-toolbar-button-text-active-hover:red;--tv-color-item-active-text:#06ff06;--tv-color-toolbar-toggle-button-background-active:red;--tv-color-toolbar-toggle-button-background-active-hover:#f0f}
+:root:not(.theme-dark) {
+    --tv-color-platform-background: #fff;
+    --tv-color-pane-background: #fff;
+    --tv-color-pane-background-secondary: #fff;;
+    --tv-color-toolbar-button-background-hover: #fff;;
+    --tv-color-toolbar-button-background-secondary-hover: red;
+    --tv-color-toolbar-button-background-expanded: #434651;
+    --tv-color-toolbar-button-text: rgb(136, 24, 79);
+    --tv-color-toolbar-button-text-hover: rgb(74, 20, 140);
+    --tv-color-toolbar-button-text-active: red;
+    --tv-color-toolbar-button-text-active-hover: red;
+    --tv-color-item-active-text: rgb(6, 6, 255);
+    --tv-color-toolbar-toggle-button-background-active: red;
+    --tv-color-toolbar-toggle-button-background-active-hover: magenta;
+    
+}
+.cusButton{
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}
+.cusButton.selected{
+    color: #03cdc1;
+}
+
+.theme-dark:root {
+    --tv-color-platform-background: #1E2439;
+    --tv-color-pane-background: #1E2439;
+    --tv-color-pane-background-secondary: #1E2439;
+    --tv-color-toolbar-button-background-hover: #1E2439;
+    --tv-color-toolbar-button-background-secondary-hover: red;
+    --tv-color-toolbar-button-background-expanded: #1E2439;
+    --tv-color-toolbar-button-text: rgb(136, 24, 79);
+    --tv-color-toolbar-button-text-hover: rgb(74, 20, 140);
+    --tv-color-toolbar-button-text-active: red;
+    --tv-color-toolbar-button-text-active-hover: red;
+    --tv-color-item-active-text: rgb(6, 255, 6);
+    --tv-color-toolbar-toggle-button-background-active: red;
+    --tv-color-toolbar-toggle-button-background-active-hover: magenta;
+}

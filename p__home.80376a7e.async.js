@@ -1,2 +1,0 @@
-(self["webpackChunk_1kx_sourceCode"]=self["webpackChunk_1kx_sourceCode"]||[]).push([[364],{31802:function(e,n,r){"use strict";r.r(n),r.d(n,{default:function(){return l}});var u=r(3150),c=r(55902),o=(0,u.l$)(),t="iPhone"===o||"Android"===o;function l(){return t?c.m8.replace("/trade"):c.m8.replace("/home"),null}}}]);
-//# sourceMappingURL=p__home.80376a7e.async.js.map
